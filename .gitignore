@@ -1,0 +1,10 @@
+CalculadoraApp.sln
+.vs
+CalculadoraApp/bin
+CalculadoraApp/bin/Debug
+CalculadoraApp/obj
+CalculadoraApp/Properties
+CalculadoraApp/CalculadoraApp.csproj
+CalculadoraApp/CalculadoraApp.csproj.user
+CalculadoraApp/View/CalculadoraView.resx
+CalculadoraApp/Program.cs

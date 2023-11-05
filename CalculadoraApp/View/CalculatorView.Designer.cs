@@ -2,7 +2,7 @@
 
 namespace CalculadoraApp;
 
-partial class CalculadoraView
+partial class CalculatorView
 {
     /// <summary>
     ///  Required designer variable.
